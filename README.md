@@ -73,7 +73,7 @@ Pose convention: camera frame; `R = Rz(yaw) * Ry(pitch) * Rx(roll)`; `orientatio
 
 ## Data access
 
-This repository provides the 220-frame decision-GT benchmark: annotations (`annotations/decision_gt/`), corresponding RGB/NPZ files (`rgbd/val/{crop}/`), sample train frames (`rgbd/train/{crop}/`, one frame per crop), metadata, and `prompt.txt`. The remaining RGB-D images are not included due to size; additional data may be available from the authors upon request.
+This repository provides the 220-frame decision-GT benchmark: annotations (`annotations/decision_gt/`), corresponding RGB/NPZ files (`rgbd/val/{crop}/`), metadata, and `prompt.txt`. The full `rgbd/train/` set and remaining `rgbd/val/` images are not included due to size; one sample frame per crop is provided in `rgbd/train/`. Please contact the authors if needed.
 
 
 ### Citation & License 
