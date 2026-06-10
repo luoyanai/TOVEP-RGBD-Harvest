@@ -1,0 +1,49 @@
+{
+  "frame_name": "mango_frame_0023",
+  "crop": "mango",
+  "class_id": 3,
+  "class_label": "mango",
+  "annotation_schema": "decision_gt_v1",
+  "primary_target_id": 1,
+  "targets": [
+    {
+      "target_id": 1,
+      "picking_point": [
+        335,
+        240
+      ],
+      "approach_angle_deg": -94.02826366648515,
+      "camera_pose": {
+        "position_m": [
+          0.0019326014590348734,
+          -0.008852907526276961,
+          0.36119648814201355
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          -15.0,
+          -94.02826366648515
+        ],
+        "rotation_matrix": [
+          [
+            -0.06785489608045633,
+            0.9975295184354295,
+            0.018181664607256027
+          ],
+          [
+            -0.9635395243424786,
+            -0.07024855763629795,
+            0.25817963742303524
+          ],
+          [
+            0.25881904510252074,
+            0.0,
+            0.9659258262890683
+          ]
+        ]
+      }
+    }
+  ],
+  "rgb_file": "rgbd/val/mango/mango_frame_0023_rgb.png",
+  "depth_file": "rgbd/val/mango/mango_frame_0023.npz"
+}

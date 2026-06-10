@@ -1,0 +1,160 @@
+{
+  "frame_name": "strawberry_frame_0017",
+  "crop": "strawberry",
+  "class_id": 0,
+  "class_label": "strawberry",
+  "annotation_schema": "decision_gt_v1",
+  "primary_target_id": 1,
+  "targets": [
+    {
+      "target_id": 1,
+      "picking_point": [
+        487,
+        252
+      ],
+      "approach_angle_deg": -92.26050191114128,
+      "camera_pose": {
+        "position_m": [
+          0.26822257781335235,
+          -0.004844753057479163,
+          1.043715000152588
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -92.26050191114128
+        ],
+        "rotation_matrix": [
+          [
+            -0.03944296671351385,
+            0.9992218234090149,
+            -0.0
+          ],
+          [
+            -0.9992218234090149,
+            -0.03944296671351385,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    {
+      "target_id": 2,
+      "picking_point": [
+        447,
+        297
+      ],
+      "approach_angle_deg": -90.0,
+      "camera_pose": {
+        "position_m": [
+          0.13275440636708957,
+          0.04861772524054601,
+          0.6958950161933899
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -90.0
+        ],
+        "rotation_matrix": [
+          [
+            6.123233995736766e-17,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            6.123233995736766e-17,
+            -0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    {
+      "target_id": 3,
+      "picking_point": [
+        273,
+        377
+      ],
+      "approach_angle_deg": -90.0,
+      "camera_pose": {
+        "position_m": [
+          -0.08134952459803778,
+          0.1691669164975327,
+          0.8361449837684631
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -90.0
+        ],
+        "rotation_matrix": [
+          [
+            6.123233995736766e-17,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            6.123233995736766e-17,
+            -0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    {
+      "target_id": 4,
+      "picking_point": [
+        178,
+        166
+      ],
+      "approach_angle_deg": -85.60129464500447,
+      "camera_pose": {
+        "position_m": [
+          -0.0980850803233275,
+          -0.05665138628034334,
+          0.3853049874305725
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -85.60129464500447
+        ],
+        "rotation_matrix": [
+          [
+            0.07669649888473697,
+            0.9970544855015816,
+            0.0
+          ],
+          [
+            -0.9970544855015816,
+            0.07669649888473697,
+            -0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    }
+  ],
+  "rgb_file": "rgbd/val/strawberry/strawberry_frame_0017_rgb.png",
+  "depth_file": "rgbd/val/strawberry/strawberry_frame_0017.npz"
+}

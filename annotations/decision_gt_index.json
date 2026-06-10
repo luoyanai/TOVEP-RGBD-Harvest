@@ -1,0 +1,1112 @@
+{
+  "description": "220 expert decision-GT picking annotations (55 per crop)",
+  "total": 220,
+  "per_crop": {
+    "strawberry": 55,
+    "orange": 55,
+    "pepper": 55,
+    "mango": 55
+  },
+  "frames": [
+    {
+      "frame_name": "strawberry_frame_0001",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0001.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0002",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0002.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0003",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0003.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0004",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0004.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0005",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0005.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0006",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0006.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0007",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0007.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0008",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0008.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0009",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0009.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0010",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0010.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0011",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0011.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0012",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0012.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0013",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0013.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0014",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0014.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0015",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0015.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0016",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0016.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0017",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0017.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0018",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0018.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0019",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0019.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0020",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0020.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0021",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0021.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0022",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0022.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0023",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0023.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0024",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0024.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0025",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0025.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0026",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0026.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0027",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0027.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0028",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0028.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0029",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0029.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0030",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0030.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0031",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0031.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0032",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0032.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0033",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0033.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0034",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0034.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0035",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0035.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0036",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0036.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0037",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0037.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0038",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0038.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0039",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0039.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0040",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0040.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0041",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0041.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0042",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0042.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0043",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0043.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0044",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0044.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0045",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0045.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0046",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0046.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0047",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0047.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0048",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0048.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0049",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0049.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0050",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0050.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0051",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0051.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0052",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0052.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0053",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0053.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0054",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0054.json"
+    },
+    {
+      "frame_name": "strawberry_frame_0055",
+      "crop": "strawberry",
+      "file": "annotations/decision_gt/strawberry/strawberry_frame_0055.json"
+    },
+    {
+      "frame_name": "orange_frame_0001",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0001.json"
+    },
+    {
+      "frame_name": "orange_frame_0002",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0002.json"
+    },
+    {
+      "frame_name": "orange_frame_0003",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0003.json"
+    },
+    {
+      "frame_name": "orange_frame_0004",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0004.json"
+    },
+    {
+      "frame_name": "orange_frame_0005",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0005.json"
+    },
+    {
+      "frame_name": "orange_frame_0006",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0006.json"
+    },
+    {
+      "frame_name": "orange_frame_0007",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0007.json"
+    },
+    {
+      "frame_name": "orange_frame_0008",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0008.json"
+    },
+    {
+      "frame_name": "orange_frame_0009",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0009.json"
+    },
+    {
+      "frame_name": "orange_frame_0010",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0010.json"
+    },
+    {
+      "frame_name": "orange_frame_0011",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0011.json"
+    },
+    {
+      "frame_name": "orange_frame_0012",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0012.json"
+    },
+    {
+      "frame_name": "orange_frame_0013",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0013.json"
+    },
+    {
+      "frame_name": "orange_frame_0014",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0014.json"
+    },
+    {
+      "frame_name": "orange_frame_0015",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0015.json"
+    },
+    {
+      "frame_name": "orange_frame_0016",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0016.json"
+    },
+    {
+      "frame_name": "orange_frame_0017",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0017.json"
+    },
+    {
+      "frame_name": "orange_frame_0018",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0018.json"
+    },
+    {
+      "frame_name": "orange_frame_0019",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0019.json"
+    },
+    {
+      "frame_name": "orange_frame_0020",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0020.json"
+    },
+    {
+      "frame_name": "orange_frame_0021",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0021.json"
+    },
+    {
+      "frame_name": "orange_frame_0022",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0022.json"
+    },
+    {
+      "frame_name": "orange_frame_0023",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0023.json"
+    },
+    {
+      "frame_name": "orange_frame_0024",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0024.json"
+    },
+    {
+      "frame_name": "orange_frame_0025",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0025.json"
+    },
+    {
+      "frame_name": "orange_frame_0026",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0026.json"
+    },
+    {
+      "frame_name": "orange_frame_0027",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0027.json"
+    },
+    {
+      "frame_name": "orange_frame_0028",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0028.json"
+    },
+    {
+      "frame_name": "orange_frame_0029",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0029.json"
+    },
+    {
+      "frame_name": "orange_frame_0030",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0030.json"
+    },
+    {
+      "frame_name": "orange_frame_0031",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0031.json"
+    },
+    {
+      "frame_name": "orange_frame_0032",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0032.json"
+    },
+    {
+      "frame_name": "orange_frame_0033",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0033.json"
+    },
+    {
+      "frame_name": "orange_frame_0034",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0034.json"
+    },
+    {
+      "frame_name": "orange_frame_0035",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0035.json"
+    },
+    {
+      "frame_name": "orange_frame_0036",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0036.json"
+    },
+    {
+      "frame_name": "orange_frame_0037",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0037.json"
+    },
+    {
+      "frame_name": "orange_frame_0038",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0038.json"
+    },
+    {
+      "frame_name": "orange_frame_0039",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0039.json"
+    },
+    {
+      "frame_name": "orange_frame_0040",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0040.json"
+    },
+    {
+      "frame_name": "orange_frame_0041",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0041.json"
+    },
+    {
+      "frame_name": "orange_frame_0042",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0042.json"
+    },
+    {
+      "frame_name": "orange_frame_0043",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0043.json"
+    },
+    {
+      "frame_name": "orange_frame_0044",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0044.json"
+    },
+    {
+      "frame_name": "orange_frame_0045",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0045.json"
+    },
+    {
+      "frame_name": "orange_frame_0046",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0046.json"
+    },
+    {
+      "frame_name": "orange_frame_0047",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0047.json"
+    },
+    {
+      "frame_name": "orange_frame_0048",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0048.json"
+    },
+    {
+      "frame_name": "orange_frame_0049",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0049.json"
+    },
+    {
+      "frame_name": "orange_frame_0050",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0050.json"
+    },
+    {
+      "frame_name": "orange_frame_0051",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0051.json"
+    },
+    {
+      "frame_name": "orange_frame_0052",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0052.json"
+    },
+    {
+      "frame_name": "orange_frame_0053",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0053.json"
+    },
+    {
+      "frame_name": "orange_frame_0054",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0054.json"
+    },
+    {
+      "frame_name": "orange_frame_0055",
+      "crop": "orange",
+      "file": "annotations/decision_gt/orange/orange_frame_0055.json"
+    },
+    {
+      "frame_name": "pepper_frame_0001",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0001.json"
+    },
+    {
+      "frame_name": "pepper_frame_0002",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0002.json"
+    },
+    {
+      "frame_name": "pepper_frame_0003",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0003.json"
+    },
+    {
+      "frame_name": "pepper_frame_0004",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0004.json"
+    },
+    {
+      "frame_name": "pepper_frame_0005",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0005.json"
+    },
+    {
+      "frame_name": "pepper_frame_0006",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0006.json"
+    },
+    {
+      "frame_name": "pepper_frame_0007",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0007.json"
+    },
+    {
+      "frame_name": "pepper_frame_0008",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0008.json"
+    },
+    {
+      "frame_name": "pepper_frame_0009",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0009.json"
+    },
+    {
+      "frame_name": "pepper_frame_0010",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0010.json"
+    },
+    {
+      "frame_name": "pepper_frame_0011",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0011.json"
+    },
+    {
+      "frame_name": "pepper_frame_0012",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0012.json"
+    },
+    {
+      "frame_name": "pepper_frame_0013",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0013.json"
+    },
+    {
+      "frame_name": "pepper_frame_0014",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0014.json"
+    },
+    {
+      "frame_name": "pepper_frame_0015",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0015.json"
+    },
+    {
+      "frame_name": "pepper_frame_0016",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0016.json"
+    },
+    {
+      "frame_name": "pepper_frame_0017",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0017.json"
+    },
+    {
+      "frame_name": "pepper_frame_0018",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0018.json"
+    },
+    {
+      "frame_name": "pepper_frame_0019",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0019.json"
+    },
+    {
+      "frame_name": "pepper_frame_0020",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0020.json"
+    },
+    {
+      "frame_name": "pepper_frame_0021",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0021.json"
+    },
+    {
+      "frame_name": "pepper_frame_0022",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0022.json"
+    },
+    {
+      "frame_name": "pepper_frame_0023",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0023.json"
+    },
+    {
+      "frame_name": "pepper_frame_0024",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0024.json"
+    },
+    {
+      "frame_name": "pepper_frame_0025",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0025.json"
+    },
+    {
+      "frame_name": "pepper_frame_0026",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0026.json"
+    },
+    {
+      "frame_name": "pepper_frame_0027",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0027.json"
+    },
+    {
+      "frame_name": "pepper_frame_0028",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0028.json"
+    },
+    {
+      "frame_name": "pepper_frame_0029",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0029.json"
+    },
+    {
+      "frame_name": "pepper_frame_0030",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0030.json"
+    },
+    {
+      "frame_name": "pepper_frame_0031",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0031.json"
+    },
+    {
+      "frame_name": "pepper_frame_0032",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0032.json"
+    },
+    {
+      "frame_name": "pepper_frame_0033",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0033.json"
+    },
+    {
+      "frame_name": "pepper_frame_0034",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0034.json"
+    },
+    {
+      "frame_name": "pepper_frame_0035",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0035.json"
+    },
+    {
+      "frame_name": "pepper_frame_0036",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0036.json"
+    },
+    {
+      "frame_name": "pepper_frame_0037",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0037.json"
+    },
+    {
+      "frame_name": "pepper_frame_0038",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0038.json"
+    },
+    {
+      "frame_name": "pepper_frame_0039",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0039.json"
+    },
+    {
+      "frame_name": "pepper_frame_0040",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0040.json"
+    },
+    {
+      "frame_name": "pepper_frame_0041",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0041.json"
+    },
+    {
+      "frame_name": "pepper_frame_0042",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0042.json"
+    },
+    {
+      "frame_name": "pepper_frame_0043",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0043.json"
+    },
+    {
+      "frame_name": "pepper_frame_0044",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0044.json"
+    },
+    {
+      "frame_name": "pepper_frame_0045",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0045.json"
+    },
+    {
+      "frame_name": "pepper_frame_0046",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0046.json"
+    },
+    {
+      "frame_name": "pepper_frame_0047",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0047.json"
+    },
+    {
+      "frame_name": "pepper_frame_0048",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0048.json"
+    },
+    {
+      "frame_name": "pepper_frame_0049",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0049.json"
+    },
+    {
+      "frame_name": "pepper_frame_0050",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0050.json"
+    },
+    {
+      "frame_name": "pepper_frame_0051",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0051.json"
+    },
+    {
+      "frame_name": "pepper_frame_0052",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0052.json"
+    },
+    {
+      "frame_name": "pepper_frame_0053",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0053.json"
+    },
+    {
+      "frame_name": "pepper_frame_0054",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0054.json"
+    },
+    {
+      "frame_name": "pepper_frame_0055",
+      "crop": "pepper",
+      "file": "annotations/decision_gt/pepper/pepper_frame_0055.json"
+    },
+    {
+      "frame_name": "mango_frame_0001",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0001.json"
+    },
+    {
+      "frame_name": "mango_frame_0002",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0002.json"
+    },
+    {
+      "frame_name": "mango_frame_0003",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0003.json"
+    },
+    {
+      "frame_name": "mango_frame_0004",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0004.json"
+    },
+    {
+      "frame_name": "mango_frame_0005",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0005.json"
+    },
+    {
+      "frame_name": "mango_frame_0006",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0006.json"
+    },
+    {
+      "frame_name": "mango_frame_0007",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0007.json"
+    },
+    {
+      "frame_name": "mango_frame_0008",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0008.json"
+    },
+    {
+      "frame_name": "mango_frame_0009",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0009.json"
+    },
+    {
+      "frame_name": "mango_frame_0010",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0010.json"
+    },
+    {
+      "frame_name": "mango_frame_0011",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0011.json"
+    },
+    {
+      "frame_name": "mango_frame_0012",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0012.json"
+    },
+    {
+      "frame_name": "mango_frame_0013",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0013.json"
+    },
+    {
+      "frame_name": "mango_frame_0014",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0014.json"
+    },
+    {
+      "frame_name": "mango_frame_0015",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0015.json"
+    },
+    {
+      "frame_name": "mango_frame_0016",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0016.json"
+    },
+    {
+      "frame_name": "mango_frame_0017",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0017.json"
+    },
+    {
+      "frame_name": "mango_frame_0018",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0018.json"
+    },
+    {
+      "frame_name": "mango_frame_0019",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0019.json"
+    },
+    {
+      "frame_name": "mango_frame_0020",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0020.json"
+    },
+    {
+      "frame_name": "mango_frame_0021",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0021.json"
+    },
+    {
+      "frame_name": "mango_frame_0022",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0022.json"
+    },
+    {
+      "frame_name": "mango_frame_0023",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0023.json"
+    },
+    {
+      "frame_name": "mango_frame_0024",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0024.json"
+    },
+    {
+      "frame_name": "mango_frame_0025",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0025.json"
+    },
+    {
+      "frame_name": "mango_frame_0026",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0026.json"
+    },
+    {
+      "frame_name": "mango_frame_0027",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0027.json"
+    },
+    {
+      "frame_name": "mango_frame_0028",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0028.json"
+    },
+    {
+      "frame_name": "mango_frame_0029",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0029.json"
+    },
+    {
+      "frame_name": "mango_frame_0030",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0030.json"
+    },
+    {
+      "frame_name": "mango_frame_0031",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0031.json"
+    },
+    {
+      "frame_name": "mango_frame_0032",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0032.json"
+    },
+    {
+      "frame_name": "mango_frame_0033",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0033.json"
+    },
+    {
+      "frame_name": "mango_frame_0034",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0034.json"
+    },
+    {
+      "frame_name": "mango_frame_0035",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0035.json"
+    },
+    {
+      "frame_name": "mango_frame_0036",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0036.json"
+    },
+    {
+      "frame_name": "mango_frame_0037",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0037.json"
+    },
+    {
+      "frame_name": "mango_frame_0038",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0038.json"
+    },
+    {
+      "frame_name": "mango_frame_0039",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0039.json"
+    },
+    {
+      "frame_name": "mango_frame_0040",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0040.json"
+    },
+    {
+      "frame_name": "mango_frame_0041",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0041.json"
+    },
+    {
+      "frame_name": "mango_frame_0042",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0042.json"
+    },
+    {
+      "frame_name": "mango_frame_0043",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0043.json"
+    },
+    {
+      "frame_name": "mango_frame_0044",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0044.json"
+    },
+    {
+      "frame_name": "mango_frame_0045",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0045.json"
+    },
+    {
+      "frame_name": "mango_frame_0046",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0046.json"
+    },
+    {
+      "frame_name": "mango_frame_0047",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0047.json"
+    },
+    {
+      "frame_name": "mango_frame_0048",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0048.json"
+    },
+    {
+      "frame_name": "mango_frame_0049",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0049.json"
+    },
+    {
+      "frame_name": "mango_frame_0050",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0050.json"
+    },
+    {
+      "frame_name": "mango_frame_0051",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0051.json"
+    },
+    {
+      "frame_name": "mango_frame_0052",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0052.json"
+    },
+    {
+      "frame_name": "mango_frame_0053",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0053.json"
+    },
+    {
+      "frame_name": "mango_frame_0054",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0054.json"
+    },
+    {
+      "frame_name": "mango_frame_0055",
+      "crop": "mango",
+      "file": "annotations/decision_gt/mango/mango_frame_0055.json"
+    }
+  ]
+}

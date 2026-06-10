@@ -1,0 +1,86 @@
+{
+  "frame_name": "mango_frame_0045",
+  "crop": "mango",
+  "class_id": 3,
+  "class_label": "mango",
+  "annotation_schema": "decision_gt_v1",
+  "primary_target_id": 1,
+  "targets": [
+    {
+      "target_id": 1,
+      "picking_point": [
+        126,
+        164
+      ],
+      "approach_angle_deg": -84.8055710922652,
+      "camera_pose": {
+        "position_m": [
+          -0.13660121555047416,
+          -0.06028687944874249,
+          0.4010000228881836
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -84.8055710922652
+        ],
+        "rotation_matrix": [
+          [
+            0.09053574604251861,
+            0.9958932064677039,
+            0.0
+          ],
+          [
+            -0.9958932064677039,
+            0.09053574604251861,
+            -0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    {
+      "target_id": 2,
+      "picking_point": [
+        482,
+        307
+      ],
+      "approach_angle_deg": -89.04515874612783,
+      "camera_pose": {
+        "position_m": [
+          0.1900150460378404,
+          0.06602515485328705,
+          0.7640000581741332
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          -5.0,
+          -89.04515874612783
+        ],
+        "rotation_matrix": [
+          [
+            0.016600939442256855,
+            0.9998611400395999,
+            -0.0014523940050778501
+          ],
+          [
+            -0.9960563665354177,
+            0.016664352333993222,
+            0.08714364030467159
+          ],
+          [
+            0.08715574274765817,
+            0.0,
+            0.9961946980917455
+          ]
+        ]
+      }
+    }
+  ],
+  "rgb_file": "rgbd/val/mango/mango_frame_0045_rgb.png",
+  "depth_file": "rgbd/val/mango/mango_frame_0045.npz"
+}

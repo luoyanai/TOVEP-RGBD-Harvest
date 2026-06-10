@@ -1,0 +1,86 @@
+{
+  "frame_name": "pepper_frame_0050",
+  "crop": "pepper",
+  "class_id": 2,
+  "class_label": "pepper",
+  "annotation_schema": "decision_gt_v1",
+  "primary_target_id": 1,
+  "targets": [
+    {
+      "target_id": 1,
+      "picking_point": [
+        332,
+        190
+      ],
+      "approach_angle_deg": -77.19573393471325,
+      "camera_pose": {
+        "position_m": [
+          0.00027751923491255517,
+          -0.07753798116100935,
+          0.7226700186729431
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -77.19573393471325
+        ],
+        "rotation_matrix": [
+          [
+            0.22162110358896822,
+            0.9751328557914597,
+            0.0
+          ],
+          [
+            -0.9751328557914597,
+            0.22162110358896822,
+            -0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    {
+      "target_id": 2,
+      "picking_point": [
+        448,
+        473
+      ],
+      "approach_angle_deg": -81.11934084947976,
+      "camera_pose": {
+        "position_m": [
+          0.07718389697954028,
+          0.1449078349331304,
+          0.40111497044563293
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -81.11934084947976
+        ],
+        "rotation_matrix": [
+          [
+            0.15437688027360955,
+            0.9880120337511015,
+            0.0
+          ],
+          [
+            -0.9880120337511015,
+            0.15437688027360955,
+            -0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    }
+  ],
+  "rgb_file": "rgbd/val/pepper/pepper_frame_0050_rgb.png",
+  "depth_file": "rgbd/val/pepper/pepper_frame_0050.npz"
+}

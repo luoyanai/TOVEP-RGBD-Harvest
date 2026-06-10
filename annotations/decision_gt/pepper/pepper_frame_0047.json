@@ -1,0 +1,123 @@
+{
+  "frame_name": "pepper_frame_0047",
+  "crop": "pepper",
+  "class_id": 2,
+  "class_label": "pepper",
+  "annotation_schema": "decision_gt_v1",
+  "primary_target_id": 1,
+  "targets": [
+    {
+      "target_id": 1,
+      "picking_point": [
+        445,
+        256
+      ],
+      "approach_angle_deg": -90.0,
+      "camera_pose": {
+        "position_m": [
+          0.1342265995722205,
+          0.0014183817421236924,
+          0.7160400152206421
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -90.0
+        ],
+        "rotation_matrix": [
+          [
+            6.123233995736766e-17,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            6.123233995736766e-17,
+            -0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    {
+      "target_id": 2,
+      "picking_point": [
+        486,
+        187
+      ],
+      "approach_angle_deg": -82.23483398157467,
+      "camera_pose": {
+        "position_m": [
+          0.16668125641321288,
+          -0.07328383650738686,
+          0.6527999639511108
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -82.23483398157467
+        ],
+        "rotation_matrix": [
+          [
+            0.1351132047333135,
+            0.9908301680442989,
+            0.0
+          ],
+          [
+            -0.9908301680442989,
+            0.1351132047333135,
+            -0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    },
+    {
+      "target_id": 3,
+      "picking_point": [
+        567,
+        74
+      ],
+      "approach_angle_deg": -96.00900595749452,
+      "camera_pose": {
+        "position_m": [
+          0.36613556115748236,
+          -0.28144644228361976,
+          0.940185010433197
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          0.0,
+          -96.00900595749452
+        ],
+        "rotation_matrix": [
+          [
+            -0.10468478451804274,
+            0.994505452921406,
+            -0.0
+          ],
+          [
+            -0.994505452921406,
+            -0.10468478451804274,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      }
+    }
+  ],
+  "rgb_file": "rgbd/val/pepper/pepper_frame_0047_rgb.png",
+  "depth_file": "rgbd/val/pepper/pepper_frame_0047.npz"
+}

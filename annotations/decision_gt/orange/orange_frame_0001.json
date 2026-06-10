@@ -1,0 +1,49 @@
+{
+  "frame_name": "orange_frame_0001",
+  "crop": "orange",
+  "class_id": 1,
+  "class_label": "orange",
+  "annotation_schema": "decision_gt_v1",
+  "primary_target_id": 1,
+  "targets": [
+    {
+      "target_id": 1,
+      "picking_point": [
+        474,
+        207
+      ],
+      "approach_angle_deg": -90.0,
+      "camera_pose": {
+        "position_m": [
+          0.0670053335973929,
+          -0.022522459164423095,
+          0.28456397056579585
+        ],
+        "orientation_rpy_deg": [
+          0.0,
+          25.0,
+          -90.0
+        ],
+        "rotation_matrix": [
+          [
+            5.549534652183772e-17,
+            1.0,
+            2.5877905075098294e-17
+          ],
+          [
+            -0.9063077870366499,
+            6.123233995736766e-17,
+            -0.42261826174069944
+          ],
+          [
+            -0.42261826174069944,
+            0.0,
+            0.9063077870366499
+          ]
+        ]
+      }
+    }
+  ],
+  "rgb_file": "rgbd/val/orange/orange_frame_0001_rgb.png",
+  "depth_file": "rgbd/val/orange/orange_frame_0001.npz"
+}

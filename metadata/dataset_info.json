@@ -1,0 +1,65 @@
+{
+  "name": "TOVEP-RGBD-Harvest",
+  "version": "1.2",
+  "sensor": "Intel RealSense RGB-D (depth aligned to color)",
+  "resolution": {
+    "width": 640,
+    "height": 480
+  },
+  "depth_unit": "mm",
+  "depth_scale": 0.001,
+  "crops": [
+    "strawberry",
+    "orange",
+    "pepper",
+    "mango"
+  ],
+  "class_labels": {
+    "strawberry": 0,
+    "orange": 1,
+    "pepper": 2,
+    "mango": 3
+  },
+  "splits": {
+    "train": 3366,
+    "val_pool": 1323,
+    "rep_val": 1103,
+    "decision_gt": 220
+  },
+  "frames_per_crop": {
+    "train": {
+      "strawberry": 1196,
+      "orange": 707,
+      "pepper": 727,
+      "mango": 736
+    },
+    "val_pool": {
+      "strawberry": 335,
+      "orange": 318,
+      "pepper": 335,
+      "mango": 335
+    },
+    "rep_val": {
+      "strawberry": 280,
+      "orange": 263,
+      "pepper": 280,
+      "mango": 280
+    },
+    "decision_gt": {
+      "strawberry": 55,
+      "orange": 55,
+      "pepper": 55,
+      "mango": 55
+    }
+  },
+  "usage": {
+    "train": "TOVEP training only (RGB + raw depth)",
+    "rep_val": "TOVEP model selection, early stopping, representation metrics",
+    "decision_gt": "Final VLM harvesting-decision evaluation only"
+  },
+  "annotations": {
+    "decision_gt_dir": "annotations/decision_gt",
+    "decision_gt_index": "annotations/decision_gt_index.json",
+    "decision_gt_count": 220
+  }
+}

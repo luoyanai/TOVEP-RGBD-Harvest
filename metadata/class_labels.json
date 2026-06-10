@@ -1,0 +1,15 @@
+{
+  "labels": {
+    "strawberry": 0,
+    "orange": 1,
+    "pepper": 2,
+    "mango": 3
+  },
+  "id_to_name": {
+    "0": "strawberry",
+    "1": "orange",
+    "2": "pepper",
+    "3": "mango"
+  },
+  "description": "0=strawberry, 1=orange, 2=pepper, 3=mango"
+}

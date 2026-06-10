@@ -1,0 +1,1342 @@
+{
+  "description": "Validation frames with GT depth (55 per crop, 220 total)",
+  "total": 220,
+  "per_crop": {
+    "strawberry": 55,
+    "orange": 55,
+    "pepper": 55,
+    "mango": 55
+  },
+  "by_crop": {
+    "strawberry": [
+      "strawberry_frame_0001",
+      "strawberry_frame_0002",
+      "strawberry_frame_0003",
+      "strawberry_frame_0004",
+      "strawberry_frame_0005",
+      "strawberry_frame_0006",
+      "strawberry_frame_0007",
+      "strawberry_frame_0008",
+      "strawberry_frame_0009",
+      "strawberry_frame_0010",
+      "strawberry_frame_0011",
+      "strawberry_frame_0012",
+      "strawberry_frame_0013",
+      "strawberry_frame_0014",
+      "strawberry_frame_0015",
+      "strawberry_frame_0016",
+      "strawberry_frame_0017",
+      "strawberry_frame_0018",
+      "strawberry_frame_0019",
+      "strawberry_frame_0020",
+      "strawberry_frame_0021",
+      "strawberry_frame_0022",
+      "strawberry_frame_0023",
+      "strawberry_frame_0024",
+      "strawberry_frame_0025",
+      "strawberry_frame_0026",
+      "strawberry_frame_0027",
+      "strawberry_frame_0028",
+      "strawberry_frame_0029",
+      "strawberry_frame_0030",
+      "strawberry_frame_0031",
+      "strawberry_frame_0032",
+      "strawberry_frame_0033",
+      "strawberry_frame_0034",
+      "strawberry_frame_0035",
+      "strawberry_frame_0036",
+      "strawberry_frame_0037",
+      "strawberry_frame_0038",
+      "strawberry_frame_0039",
+      "strawberry_frame_0040",
+      "strawberry_frame_0041",
+      "strawberry_frame_0042",
+      "strawberry_frame_0043",
+      "strawberry_frame_0044",
+      "strawberry_frame_0045",
+      "strawberry_frame_0046",
+      "strawberry_frame_0047",
+      "strawberry_frame_0048",
+      "strawberry_frame_0049",
+      "strawberry_frame_0050",
+      "strawberry_frame_0051",
+      "strawberry_frame_0052",
+      "strawberry_frame_0053",
+      "strawberry_frame_0054",
+      "strawberry_frame_0055"
+    ],
+    "orange": [
+      "orange_frame_0001",
+      "orange_frame_0002",
+      "orange_frame_0003",
+      "orange_frame_0004",
+      "orange_frame_0005",
+      "orange_frame_0006",
+      "orange_frame_0007",
+      "orange_frame_0008",
+      "orange_frame_0009",
+      "orange_frame_0010",
+      "orange_frame_0011",
+      "orange_frame_0012",
+      "orange_frame_0013",
+      "orange_frame_0014",
+      "orange_frame_0015",
+      "orange_frame_0016",
+      "orange_frame_0017",
+      "orange_frame_0018",
+      "orange_frame_0019",
+      "orange_frame_0020",
+      "orange_frame_0021",
+      "orange_frame_0022",
+      "orange_frame_0023",
+      "orange_frame_0024",
+      "orange_frame_0025",
+      "orange_frame_0026",
+      "orange_frame_0027",
+      "orange_frame_0028",
+      "orange_frame_0029",
+      "orange_frame_0030",
+      "orange_frame_0031",
+      "orange_frame_0032",
+      "orange_frame_0033",
+      "orange_frame_0034",
+      "orange_frame_0035",
+      "orange_frame_0036",
+      "orange_frame_0037",
+      "orange_frame_0038",
+      "orange_frame_0039",
+      "orange_frame_0040",
+      "orange_frame_0041",
+      "orange_frame_0042",
+      "orange_frame_0043",
+      "orange_frame_0044",
+      "orange_frame_0045",
+      "orange_frame_0046",
+      "orange_frame_0047",
+      "orange_frame_0048",
+      "orange_frame_0049",
+      "orange_frame_0050",
+      "orange_frame_0051",
+      "orange_frame_0052",
+      "orange_frame_0053",
+      "orange_frame_0054",
+      "orange_frame_0055"
+    ],
+    "pepper": [
+      "pepper_frame_0001",
+      "pepper_frame_0002",
+      "pepper_frame_0003",
+      "pepper_frame_0004",
+      "pepper_frame_0005",
+      "pepper_frame_0006",
+      "pepper_frame_0007",
+      "pepper_frame_0008",
+      "pepper_frame_0009",
+      "pepper_frame_0010",
+      "pepper_frame_0011",
+      "pepper_frame_0012",
+      "pepper_frame_0013",
+      "pepper_frame_0014",
+      "pepper_frame_0015",
+      "pepper_frame_0016",
+      "pepper_frame_0017",
+      "pepper_frame_0018",
+      "pepper_frame_0019",
+      "pepper_frame_0020",
+      "pepper_frame_0021",
+      "pepper_frame_0022",
+      "pepper_frame_0023",
+      "pepper_frame_0024",
+      "pepper_frame_0025",
+      "pepper_frame_0026",
+      "pepper_frame_0027",
+      "pepper_frame_0028",
+      "pepper_frame_0029",
+      "pepper_frame_0030",
+      "pepper_frame_0031",
+      "pepper_frame_0032",
+      "pepper_frame_0033",
+      "pepper_frame_0034",
+      "pepper_frame_0035",
+      "pepper_frame_0036",
+      "pepper_frame_0037",
+      "pepper_frame_0038",
+      "pepper_frame_0039",
+      "pepper_frame_0040",
+      "pepper_frame_0041",
+      "pepper_frame_0042",
+      "pepper_frame_0043",
+      "pepper_frame_0044",
+      "pepper_frame_0045",
+      "pepper_frame_0046",
+      "pepper_frame_0047",
+      "pepper_frame_0048",
+      "pepper_frame_0049",
+      "pepper_frame_0050",
+      "pepper_frame_0051",
+      "pepper_frame_0052",
+      "pepper_frame_0053",
+      "pepper_frame_0054",
+      "pepper_frame_0055"
+    ],
+    "mango": [
+      "mango_frame_0001",
+      "mango_frame_0002",
+      "mango_frame_0003",
+      "mango_frame_0004",
+      "mango_frame_0005",
+      "mango_frame_0006",
+      "mango_frame_0007",
+      "mango_frame_0008",
+      "mango_frame_0009",
+      "mango_frame_0010",
+      "mango_frame_0011",
+      "mango_frame_0012",
+      "mango_frame_0013",
+      "mango_frame_0014",
+      "mango_frame_0015",
+      "mango_frame_0016",
+      "mango_frame_0017",
+      "mango_frame_0018",
+      "mango_frame_0019",
+      "mango_frame_0020",
+      "mango_frame_0021",
+      "mango_frame_0022",
+      "mango_frame_0023",
+      "mango_frame_0024",
+      "mango_frame_0025",
+      "mango_frame_0026",
+      "mango_frame_0027",
+      "mango_frame_0028",
+      "mango_frame_0029",
+      "mango_frame_0030",
+      "mango_frame_0031",
+      "mango_frame_0032",
+      "mango_frame_0033",
+      "mango_frame_0034",
+      "mango_frame_0035",
+      "mango_frame_0036",
+      "mango_frame_0037",
+      "mango_frame_0038",
+      "mango_frame_0039",
+      "mango_frame_0040",
+      "mango_frame_0041",
+      "mango_frame_0042",
+      "mango_frame_0043",
+      "mango_frame_0044",
+      "mango_frame_0045",
+      "mango_frame_0046",
+      "mango_frame_0047",
+      "mango_frame_0048",
+      "mango_frame_0049",
+      "mango_frame_0050",
+      "mango_frame_0051",
+      "mango_frame_0052",
+      "mango_frame_0053",
+      "mango_frame_0054",
+      "mango_frame_0055"
+    ]
+  },
+  "frames": [
+    {
+      "frame_name": "strawberry_frame_0001",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0002",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0003",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0004",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0005",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0006",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0007",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0008",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0009",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0010",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0011",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0012",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0013",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0014",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0015",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0016",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0017",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0018",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0019",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0020",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0021",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0022",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0023",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0024",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0025",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0026",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0027",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0028",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0029",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0030",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0031",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0032",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0033",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0034",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0035",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0036",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0037",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0038",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0039",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0040",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0041",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0042",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0043",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0044",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0045",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0046",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0047",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0048",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0049",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0050",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0051",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0052",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0053",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0054",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "strawberry_frame_0055",
+      "class_id": 0,
+      "class_label": "strawberry"
+    },
+    {
+      "frame_name": "orange_frame_0001",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0002",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0003",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0004",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0005",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0006",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0007",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0008",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0009",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0010",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0011",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0012",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0013",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0014",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0015",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0016",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0017",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0018",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0019",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0020",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0021",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0022",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0023",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0024",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0025",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0026",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0027",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0028",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0029",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0030",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0031",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0032",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0033",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0034",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0035",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0036",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0037",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0038",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0039",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0040",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0041",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0042",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0043",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0044",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0045",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0046",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0047",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0048",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0049",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0050",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0051",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0052",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0053",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0054",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "orange_frame_0055",
+      "class_id": 1,
+      "class_label": "orange"
+    },
+    {
+      "frame_name": "pepper_frame_0001",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0002",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0003",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0004",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0005",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0006",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0007",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0008",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0009",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0010",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0011",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0012",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0013",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0014",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0015",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0016",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0017",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0018",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0019",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0020",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0021",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0022",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0023",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0024",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0025",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0026",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0027",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0028",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0029",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0030",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0031",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0032",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0033",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0034",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0035",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0036",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0037",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0038",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0039",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0040",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0041",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0042",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0043",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0044",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0045",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0046",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0047",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0048",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0049",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0050",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0051",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0052",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0053",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0054",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "pepper_frame_0055",
+      "class_id": 2,
+      "class_label": "pepper"
+    },
+    {
+      "frame_name": "mango_frame_0001",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0002",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0003",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0004",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0005",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0006",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0007",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0008",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0009",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0010",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0011",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0012",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0013",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0014",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0015",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0016",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0017",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0018",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0019",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0020",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0021",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0022",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0023",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0024",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0025",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0026",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0027",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0028",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0029",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0030",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0031",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0032",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0033",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0034",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0035",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0036",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0037",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0038",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0039",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0040",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0041",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0042",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0043",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0044",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0045",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0046",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0047",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0048",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0049",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0050",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0051",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0052",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0053",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0054",
+      "class_id": 3,
+      "class_label": "mango"
+    },
+    {
+      "frame_name": "mango_frame_0055",
+      "class_id": 3,
+      "class_label": "mango"
+    }
+  ]
+}

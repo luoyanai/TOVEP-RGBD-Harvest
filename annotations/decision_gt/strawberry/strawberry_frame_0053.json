@@ -1,0 +1,49 @@
+{
+  "frame_name": "strawberry_frame_0053",
+  "crop": "strawberry",
+  "class_id": 0,
+  "class_label": "strawberry",
+  "annotation_schema": "decision_gt_v1",
+  "primary_target_id": 1,
+  "targets": [
+    {
+      "target_id": 1,
+      "picking_point": [
+        390,
+        147
+      ],
+      "approach_angle_deg": -93.3924977537511,
+      "camera_pose": {
+        "position_m": [
+          0.03667775033295951,
+          -0.06790747922999367,
+          0.3804599940776825
+        ],
+        "orientation_rpy_deg": [
+          -70.0,
+          0.0,
+          -93.3924977537511
+        ],
+        "rotation_matrix": [
+          [
+            -0.05917566464458514,
+            0.3414207820543242,
+            0.9380458892267932
+          ],
+          [
+            -0.9982475848775552,
+            -0.02023926930313272,
+            -0.05560693539661823
+          ],
+          [
+            -0.0,
+            -0.9396926207859083,
+            0.3420201433256688
+          ]
+        ]
+      }
+    }
+  ],
+  "rgb_file": "rgbd/val/strawberry/strawberry_frame_0053_rgb.png",
+  "depth_file": "rgbd/val/strawberry/strawberry_frame_0053.npz"
+}
