@@ -4,5 +4,6 @@ desktop.ini
 *.tmp
 ~$*
 
-# RGB-D images are hosted separately (e.g. Mendeley Data)
+# Keep full local dataset, but do not upload all RGB-D frames to GitHub.
+# Only decision-GT frames (220) are force-added to git.
 rgbd/

@@ -72,8 +72,13 @@ Pose convention: camera frame; `R = Rz(yaw) * Ry(pitch) * Rx(roll)`; `orientatio
 
 ## Data access
 
-- **RGB-D images** (`rgbd/`, ~2.5 GB): download from Mendeley Data (DOI: to be assigned).
-- **This repository** contains annotations, metadata, README, and the VLM evaluation prompt.
+This GitHub repository contains the **220-frame decision-GT benchmark**:
+
+- expert annotations (`annotations/decision_gt/`)
+- corresponding RGB images and depth NPZ files (`rgbd/val/{crop}/`, 220 frames only)
+- metadata, splits index, and the VLM evaluation prompt
+
+The full dataset (4,689 frames, train + val, ~2.5 GB) is kept locally and will be released separately on Mendeley Data (DOI: to be assigned).
 
 ## Citation & License
 
