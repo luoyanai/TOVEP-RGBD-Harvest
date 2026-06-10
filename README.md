@@ -7,6 +7,7 @@ RGB-D dataset for greenhouse fruit harvesting perception (mango, orange, pepper,
 ```
 TOVEP-RGBD-Harvest/
 ├── README.md
+├── prompt.txt
 ├── annotations/
 │   ├── decision_gt_index.json
 │   └── decision_gt/
@@ -72,7 +73,7 @@ Pose convention: camera frame; `R = Rz(yaw) * Ry(pitch) * Rx(roll)`; `orientatio
 
 ## Data access
 
-This repository provides the 220-frame decision-GT benchmark: annotations (`annotations/decision_gt/`), corresponding RGB/NPZ files (`rgbd/val/{crop}/`), metadata, and `prompt.txt`. The remaining RGB-D images are not included due to size; additional data may be available from the authors upon request.
+This repository provides the 220-frame decision-GT benchmark: annotations (`annotations/decision_gt/`), corresponding RGB/NPZ files (`rgbd/val/{crop}/`), sample train frames (`rgbd/train/{crop}/`, one frame per crop), metadata, and `prompt.txt`. The remaining RGB-D images are not included due to size; additional data may be available from the authors upon request.
 
 
 ### Citation & License 

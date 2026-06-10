@@ -5,5 +5,5 @@ desktop.ini
 ~$*
 
 # Keep full local dataset, but do not upload all RGB-D frames to GitHub.
-# Only decision-GT frames (220) are force-added to git.
+# Force-added: decision-GT val frames (220) + one sample frame per crop in train/.
 rgbd/
